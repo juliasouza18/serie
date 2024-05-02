@@ -15,6 +15,7 @@ export default {
       'pink3': '#fbcfe8',
       'roxo': '#86198f',
       pink: colors.pink,
+      red:colors.red,
     }
   },
   plugins: [],
